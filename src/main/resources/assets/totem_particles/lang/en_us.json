@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.totem_particles.title": "Totem Particle Customizer",
+  "text.autoconfig.totem_particles.option.primaryColor": "Primary Color",
+  "text.autoconfig.totem_particles.option.secondaryColor": "Secondary Color",
+  "text.autoconfig.totem_particles.option.dualColorMode": "Dual Color Mode",
+  "text.autoconfig.totem_particles.option.rainbowMode": "Rainbow Mode",
+  "text.autoconfig.totem_particles.option.intensityPercent": "Particle Intensity (%)"
+}

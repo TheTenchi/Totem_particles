@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.totem_particles.title": "Personalizador de Particulas del Totem",
+  "text.autoconfig.totem_particles.option.primaryColor": "Color Primario",
+  "text.autoconfig.totem_particles.option.secondaryColor": "Color Secundario",
+  "text.autoconfig.totem_particles.option.dualColorMode": "Modo Dos Colores",
+  "text.autoconfig.totem_particles.option.rainbowMode": "Modo Arcoiris",
+  "text.autoconfig.totem_particles.option.intensityPercent": "Intensidad de Particulas (%)"
+}

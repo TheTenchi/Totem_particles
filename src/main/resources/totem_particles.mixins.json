@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.totem_particles.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "TotemParticleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
