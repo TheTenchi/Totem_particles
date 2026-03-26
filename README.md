@@ -1,4 +1,4 @@
-# Totem_particles
+# Totem Particles
 A mod that lets you change the colors of the totems particles
 # Requirements
 -Fabric API
